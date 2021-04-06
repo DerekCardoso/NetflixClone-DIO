@@ -1,4 +1,4 @@
-### NETFLIX CLOONE - DIO
+# NETFLIX CLOONE - DIO
 
 Projeto desenvolvido no bootcamp HTML Web Developer
 pela DIO (Digital Innovation One).
@@ -9,7 +9,7 @@ de forma responsiva.
 No projeto foi desenvolvido a interface como se fosse da página de séries,
 foram utilizadas Imagens do https://www.themoviedb.org/ assim como informações da série principal.
 
-# No projeto, foram utilizadas:
+### No projeto, foram utilizadas:
 - HTML
 - CSS
 - Javascript
