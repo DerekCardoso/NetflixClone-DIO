@@ -1,4 +1,4 @@
-# NETFLIX CLOONE - DIO
+# NETFLIX CLONE - DIO
 
 Projeto desenvolvido no bootcamp HTML Web Developer
 pela DIO (Digital Innovation One).
